@@ -9,7 +9,7 @@
   "author": "Ameen Mari",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^2.0.10",
+    "dompurify": "^3.4.17",
     "ejs": "^3.1.2",
     "express": "^4.17.1",
     "jsdom": "^16.2.2",
